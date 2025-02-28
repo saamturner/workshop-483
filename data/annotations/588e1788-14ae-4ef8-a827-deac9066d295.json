@@ -505,6 +505,27 @@
         }
       ],
       "uuid": "06e85ca9-6d19-47df-804a-ba654aa1c44c"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "white noise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Volume",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "3eb019f6-d54a-4029-b87d-c65707526aa6"
     }
   ],
   "set": "Default",
